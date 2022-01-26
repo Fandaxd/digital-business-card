@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.e9e5666c.chunk.css",
+    "main.js": "/digital-business-card/static/js/main.e363b44b.chunk.js",
+    "main.js.map": "/digital-business-card/static/js/main.e363b44b.chunk.js.map",
+    "runtime-main.js": "/digital-business-card/static/js/runtime-main.ed38bbd6.js",
+    "runtime-main.js.map": "/digital-business-card/static/js/runtime-main.ed38bbd6.js.map",
+    "static/js/2.7c66882e.chunk.js": "/digital-business-card/static/js/2.7c66882e.chunk.js",
+    "static/js/2.7c66882e.chunk.js.map": "/digital-business-card/static/js/2.7c66882e.chunk.js.map",
+    "static/js/3.8c818f0a.chunk.js": "/digital-business-card/static/js/3.8c818f0a.chunk.js",
+    "static/js/3.8c818f0a.chunk.js.map": "/digital-business-card/static/js/3.8c818f0a.chunk.js.map",
+    "index.html": "/digital-business-card/index.html",
+    "static/css/main.e9e5666c.chunk.css.map": "/digital-business-card/static/css/main.e9e5666c.chunk.css.map",
+    "static/js/2.7c66882e.chunk.js.LICENSE.txt": "/digital-business-card/static/js/2.7c66882e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed38bbd6.js",
+    "static/js/2.7c66882e.chunk.js",
+    "static/css/main.e9e5666c.chunk.css",
+    "static/js/main.e363b44b.chunk.js"
+  ]
+}
